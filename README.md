@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/ddliu/gulp-gobin.png)](https://travis-ci.org/ddliu/gulp-gobin)
 
-Convert any file into managable Go source code (like go-bindata).
+Convert any file into managable Go source code (like [go-bindata](https://github.com/jteeuwen/go-bindata)).
 
 ## Why Gulp Plugin
 
