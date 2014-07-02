@@ -1,6 +1,6 @@
 {
   "name": "gulp-gobin",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Convert any file into managable Go source code (like go-bindata).",
   "main": "index.js",
   "scripts": {
@@ -20,7 +20,9 @@
   "readmeFilename": "README.md",
   "gitHead": "6f80d777db426f96181a83416e6dcba0d1f45d6e",
   "devDependencies": {
-    "gulp": "~3.8.5",
+    "gulp": "~3.8.5"
+  },
+  "dependencies": {
     "through": "~2.3.4",
     "gulp-util": "~2.2.19"
   }

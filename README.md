@@ -60,3 +60,7 @@ func run() {
 ### v0.1.0 (2014-07-01)
 
 First release.
+
+### v0.1.1 (2014-07-02)
+
+Fix dependency.
