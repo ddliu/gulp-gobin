@@ -64,3 +64,7 @@ First release.
 ### v0.1.1 (2014-07-02)
 
 Fix dependency.
+
+### v0.1.2 (2014-07-02)
+
+Remove header(avoid changing contents for each build).
